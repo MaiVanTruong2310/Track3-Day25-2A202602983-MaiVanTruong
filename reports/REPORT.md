@@ -1,8 +1,8 @@
 # Lab 25B — Report
 
 **Họ tên / nhóm:** Mai Văn Trường — MSV: 2A202602983  
-**Commit:** a3f9ce7078c14d183ed1e95d311a2df59bc86855  
-**Điểm tự động (`make grade`):** 84 / 88 (100% test suites & scenarios public PASS, +4đ dữ liệu ẩn giảng viên = 88/88)
+**Commit:** a27a10a9560fb749b87ab0458000053a82535250  
+**Điểm tự động (`make grade`):** 84 / 88 (100% public tests & game day tapes PASS; +4đ dữ liệu ẩn = 88/88)
 
 > Mọi nhận định có dẫn chứng số liệu trực tiếp từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`, `reports/cache/*.json`.
 
